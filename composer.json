@@ -1,0 +1,15 @@
+{
+    "require": {
+        "slim/slim": "2.*",
+        "respect/validation": "dev-develop",
+        "flynsarmy/slim-monolog": "dev-master",
+        "monolog/monolog": "1.5.0",
+        "firephp/firephp-core": "dev-master",
+        "ccampbell/chromephp": "4.0.0",
+        "imagine/imagine": "v0.4.1",
+        "patchwork/utf8": "1.1.*"
+    },
+    "autoload": {
+        "classmap": ["server/controllers/","server/models/","vendor/mamona","vendor/redbean","vendor/Phpmailer"]
+    }
+}
