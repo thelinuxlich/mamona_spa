@@ -1,4 +1,4 @@
 Mamona Framework
 ================
 
-Este branch é ideal para Single-Page Applications(SPA)
+PHP framework for Single-Page Applications(SPA)
